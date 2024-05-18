@@ -9,7 +9,7 @@
 pacman -Sy git 
 ```
 ```
-git clone https://github.com/ecint/archinst.git
+git clone https://github.com/ecintt/archinst.git
 ```
 ```
 cd archinstall && chmod +x archinstall && ./archinstall
